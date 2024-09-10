@@ -1,24 +1,11 @@
 """
 [방법]
 - 모든 edge 간의 연결 길이 체크
-- 모든 edge에 존재하는 vertex 
+- (v) 모든 edge에 존재하는 vertex 
 """
 
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        # 그래프 생성
-        # graph = {}
-        # max_vertex = -1
-        # for u,v in edges:
-        #     if graph.get(u, None) == None:
-        #         graph[u] = [v]
-        #     else:
-        #         graph[u].append(v)
-            
-        #     if graph.get(v, None) == None:
-        #         graph[v] = [u]
-        #     else:
-        #         graph[v].append(u)
 
         center_candidate1 = 0
         center_candidate2 = 0
