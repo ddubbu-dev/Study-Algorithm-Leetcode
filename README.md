@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -63,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
