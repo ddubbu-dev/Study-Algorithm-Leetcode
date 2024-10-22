@@ -5,7 +5,11 @@ class Solution:
         negative = True if x < 0 else False
         x = abs(x)
 
-        result = int(str(x)[::-1])
+        result = 0
+        while x != 0:
+            digit = x % 10
+            result = result*10 + digit
+            x //= 10
 
         if negative:
             result = -result
