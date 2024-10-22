@@ -1,24 +1,27 @@
 class Solution:
-    def isValid(self, word: str) -> bool:
+    def isValid(self, sentence: str) -> bool:
+        st = []
+
+        try:
+            for s in sentence:
+                if s in ["(", "{", "["]:
+                    st.append(s)
+                elif s == ")":
+                    poped = st.pop()
+                    if poped != "(":
+                        return False
+                elif s == "}":
+                    poped = st.pop()
+                    if poped != "{":
+                        return False  
+                elif s == "]":
+                    poped = st.pop()
+                    if poped != "[":
+                        return False
+        except:
+            return False
         
-        stack = []
-        for s in word:
-            if s == "(" or s == "{" or s == "[":
-                stack.append(s)
-                continue
-            
-            if not stack:
-                return False
-
-            poped = stack.pop()
-
-            if (poped == "(" and s == ")") or (poped == "{" and s == "}") or (poped == "[" and s == "]"):
-                continue    
-            
+        if len(st):
             return False
-
-
-        if len(stack) > 0:
-            return False
-
-        return True
+        else:
+            return True
