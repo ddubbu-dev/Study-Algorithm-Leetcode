@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
+| [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +100,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
