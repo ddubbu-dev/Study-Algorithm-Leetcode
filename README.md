@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
