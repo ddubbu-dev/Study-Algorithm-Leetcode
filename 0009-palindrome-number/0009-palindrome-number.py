@@ -1,14 +1,13 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
-        
-        number_str = str(x)
-        str_len = len(number_str)
-        for i in range(str_len//2):
-            if number_str[i] != number_str[str_len-1-i]:
-                return False
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+
+        arr = list(str(x))
+        size = len(arr)
+        for i in range(size):
+            if arr[i] == arr[size-1-i]:
+                continue
+            return False
 
         return True
