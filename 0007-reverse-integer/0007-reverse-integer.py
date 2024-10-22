@@ -3,22 +3,9 @@ import math
 class Solution:
     def reverse(self, x: int) -> int:
         negative = True if x < 0 else False
-        if negative:
-            x = -x
-        
-        digits = list(str(x))
-        digits.reverse()
+        x = abs(x)
 
-        start_idx = 0
-        for i in range(len(digits)):
-            if digits[i] == '0':
-                continue
-            else:
-                start_idx = i
-                break
-        
-        reverse_digits = digits[i:]
-        result = int("".join(reverse_digits))
+        result = int(str(x)[::-1])
 
         if negative:
             result = -result
