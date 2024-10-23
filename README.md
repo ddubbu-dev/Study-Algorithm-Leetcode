@@ -44,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
 | [1916-find-center-of-star-graph](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1916-find-center-of-star-graph) |
 ## Dynamic Programming
 |  |
@@ -135,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
