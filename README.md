@@ -43,10 +43,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0056-merge-intervals) |
+| [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -124,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
