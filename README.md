@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
