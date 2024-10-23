@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0052-n-queens-ii) |
 ## Array
 |  |
 | ------- |
