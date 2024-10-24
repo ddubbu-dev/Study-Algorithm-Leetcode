@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Graph
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Trie
 |  |
 | ------- |
