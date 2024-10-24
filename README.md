@@ -42,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -58,11 +60,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
