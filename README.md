@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
