@@ -1,7 +1,3 @@
-"""
-[참고] https://leetcode.com/problems/trapping-rain-water/solutions/4006957/100-solved-both-very-simple-way-and-optimized-way-to-solve-trapping-rain-water-problem/
-"""
-
 class Solution:
     def trap(self, height):
         if not height:
