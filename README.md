@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
