@@ -4,7 +4,7 @@ class Solution:
         pending_num = 0
         op = '+'
 
-        for s in sentence + '+': # TODO: 
+        for s in sentence + '+': # FYI. 연산끝까지하려고
             try:
                 num = int(s)
                 pending_num = pending_num * 10 + num
