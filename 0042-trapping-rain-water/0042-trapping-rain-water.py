@@ -3,20 +3,28 @@
 """
 
 class Solution:
-    def trap(self, height: List[int]) -> int:
+    def trap(self, height):
+        if not height:
+            return 0
         
-        l_max, r_max = 0, 0
-        l, r = 0, len(height) - 1
-        water = 0
+        stack = []
+        water_trapped = 0
+        current = 0
+        
+        while current < len(height):
+            # 현재 기둥이 stack의 top보다 높은 경우 물이 고일 수 있음
+            while stack and height[current] > height[stack[-1]]:
+                top = stack.pop()  # 물이 고일 수 있는 지역의 바닥 기둥
 
-        while l < r:
-            if height[l] < height[r]: # 더 낮은 곳 물 웅덩이
-                l_max = max(l_max, height[l])
-                water += l_max - height[l]
-                l += 1
-            else:
-                r_max = max(r_max, height[r])
-                water += r_max - height[r]
-                r -= 1
+                if not stack:
+                    break  # 왼쪽 경계가 없으면 더 이상 물이 고일 수 없음
+                
+                distance = current - stack[-1] - 1  # 좌우 기둥 사이의 거리
+                bounded_height = min(height[current], height[stack[-1]]) - height[top]  # 물이 고일 수 있는 높이
+
+                water_trapped += distance * bounded_height
+            
+            stack.append(current)  # 현재 기둥 인덱스 stack에 추가
+            current += 1
         
-        return water
+        return water_trapped
