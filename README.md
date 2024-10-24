@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0282-expression-add-operators](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0056-merge-intervals) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
