@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
