@@ -7,24 +7,28 @@ class Solution:
         if not height:
             return 0
         
-        stack = []
-        water_trapped = 0
-        current = 0
+        stack = [] # (idx 모음) 역할: 왼쪽 경계 or 웅덩이
+        water = 0
+        idx = 0
         
-        while current < len(height):
-            # 현재 기둥이 stack의 top보다 높은 경우 물이 고일 수 있음
-            while stack and height[current] > height[stack[-1]]:
-                top = stack.pop()  # 물이 고일 수 있는 지역의 바닥 기둥
+        while idx < len(height):
+            r_boundary = height[idx]
 
-                if not stack:
-                    break  # 왼쪽 경계가 없으면 더 이상 물이 고일 수 없음
+            while stack: # check 웅덩이
+                base = height[stack[-1]] # 바닥
+                if base >= r_boundary: # 웅덩이 X (오른쪽 경계 없음)
+                    break
                 
-                distance = current - stack[-1] - 1  # 좌우 기둥 사이의 거리
-                bounded_height = min(height[current], height[stack[-1]]) - height[top]  # 물이 고일 수 있는 높이
-
-                water_trapped += distance * bounded_height
+                base = height[stack.pop()]
+                if not stack: # 웅덩이 X (왼쪽 경계 없음)
+                    break
+                
+                l_boundary = height[stack[-1]]
+                width = idx - stack[-1] - 1
+                min_h = min(r_boundary, l_boundary) - base
+                water += width * min_h
             
-            stack.append(current)  # 현재 기둥 인덱스 stack에 추가
-            current += 1
+            stack.append(idx)
+            idx += 1
         
-        return water_trapped
+        return water
