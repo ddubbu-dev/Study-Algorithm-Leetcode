@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2128-reverse-prefix-of-word](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
 | [0874-backspace-string-compare](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0874-backspace-string-compare) |
+| [2128-reverse-prefix-of-word](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
