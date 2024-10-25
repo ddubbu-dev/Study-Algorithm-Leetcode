@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
+| [1127-last-stone-weight](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1127-last-stone-weight) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -213,4 +214,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
+| [1127-last-stone-weight](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
