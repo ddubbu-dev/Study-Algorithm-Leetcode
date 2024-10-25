@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0200-number-of-islands) |
 | [0456-132-pattern](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0056-merge-intervals) |
+| [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 ## Simulation
 |  |
 | ------- |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
