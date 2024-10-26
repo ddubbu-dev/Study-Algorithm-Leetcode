@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0056-merge-intervals) |
 | [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -222,4 +223,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1127-last-stone-weight) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
