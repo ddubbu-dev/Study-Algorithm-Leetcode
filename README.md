@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1039-find-the-town-judge](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0207-course-schedule) |
+| [1039-find-the-town-judge](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/0682-baseball-game) |
+| [1039-find-the-town-judge](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1127-last-stone-weight) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/ddubbu-dev/Study-Algorithm-Leetcode/tree/master/1720-crawler-log-folder) |
